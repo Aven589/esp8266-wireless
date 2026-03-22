@@ -1,3 +1,38 @@
+# ESP8266 Wireless Tuning System
+
+A wireless parameter tuning system based on ESP8266 for embedded devices.
+
+## 🚀 Features
+- Real-time parameter tuning (e.g. PID)
+- UART communication between MCU and ESP8266
+- WiFi-based remote control
+- Emergency stop support
+
+## 🧩 System Architecture
+
+MCU <-> UART <-> ESP8266 <-> WiFi <-> PC / Mobile
+
+## ⚙️ Tech Stack
+- C / Embedded C
+- ESP8266 (AT or custom firmware)
+- UART communication
+- Custom protocol design
+
+## 🧠 Highlights
+- Designed custom communication protocol
+- Implemented real-time parameter update
+- Used structured data (struct / union) for transmission
+- Built a wireless debugging system
+
+## 📸 Demo
+(Add images or video here)
+
+## 📂 Project Structure
+- /MCU
+- /ESP8266
+- /Docs
+
+  
 ##esp8266调参系统，此系统可能不满足您的需求，不过您可以根据您的需求进行更改（直接让ai改就行，我只是提供框架，加速您的开发）
 
 ##使用教程
