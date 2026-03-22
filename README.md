@@ -25,14 +25,10 @@ MCU <-> UART <-> ESP8266 <-> WiFi <-> PC / Mobile
 - Built a wireless debugging system
 
 ## 📸 Demo
-(Add images or video here)
+<img width="645" height="1398" alt="c3a452124666c4b99049d147981c5cdd" src="https://github.com/user-attachments/assets/50c163d9-9232-4ddc-8e98-26a21abf8230" />
+<img width="645" height="1398" alt="0bd076302a511cedc6b9fda1d3fb5a12" src="https://github.com/user-attachments/assets/113288b8-ab41-4c95-a405-2593418a4659" />
 
-## 📂 Project Structure
-- /MCU
-- /ESP8266
-- /Docs
 
-  
 ##esp8266调参系统，此系统可能不满足您的需求，不过您可以根据您的需求进行更改（直接让ai改就行，我只是提供框架，加速您的开发）
 
 ##使用教程
@@ -53,4 +49,8 @@ MCU <-> UART <-> ESP8266 <-> WiFi <-> PC / Mobile
 这是一个串口发送/接收示例代码，您可以将其直接复制到您的代码中，把中断函数改成自己的中断函数即可
 
 ##若有问题，请联系3507064206@qq.com
+
+##参考
+![103eba9175bdf166b46ed634bc626c06](https://github.com/user-attachments/assets/4682ea96-e38e-478e-a99e-b4530122d786)
+<img width="1902" height="987" alt="456c2408604dd3bec972f8be25665dee" src="https://github.com/user-attachments/assets/440a2596-3a4e-430d-b68f-97722c4728af" />
 
